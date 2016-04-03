@@ -1,0 +1,4 @@
+Text del ficher plar
+per probar i testejar.
+
+Aixo es un document de text.

@@ -1,0 +1,33 @@
+
+MD5 en Wikipedia:
+    https://es.wikipedia.org/wiki/MD5
+
+---------------------------------------------------
+
+Referències
+
+Bibliografia bàsica
+Eckel, B. (2009). Piensa en Java. 4a edició. España: Prentice-Hall.
+Manual de referència molt popular sobre els aspectes més rellevants de la programació en Java. Especialment útil de cara a fer un repàs de la sintaxi del llenguatge, les seves classes més rellevants i veure els seus aspectes vinculats a l’orientació d’objectes.
+Singh, S. (1999). The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. U.K: Fourth Estate.
+Una revisió de la criptografia, tant des del punt de vista històric com des d’algunes de les bases matemàtiques. Llibre imprescindible de referència tant per aquells lectors que vulguin una visió general del funcionament d’alguns algorismes, com pels que cerquen passar una bona estona amb les seves anècdotes. Absolutament recomanable.
+Gong, Li; Ellison, G. (2003). Inside Java 2 Platform Security: Architecture, API Design, and Implementation. 2a edició. USA: Oracle.
+Aquest llibre ofereix una visió detallada de l’arquitectura de seguretat de Java, examinant les múltiples amenaces de seguretat existents i estratègies utilitzades per combatre-les. A dins, trobareu una guia pràctica per al desplegament de mecanismes de seguretat a aplicacions Java, així com consells sobre com personalitzar, ampliar i perfeccionar l’arquitectura de seguretat dels vostres programes.
+Bibliografia complementària
+Oaks, S. (2001). Java Security. USA: O’Reilly.
+Llibre orientat a programadors mitjanament experimentats en el llenguatge que repassa l’aplicació d’aspectes lligats a la criptografia a Java. En aquest sentit, cobreix tant la Java Cryptography Architecture (JCA) com la Java Cryptography Extension (JCE), descrivint-ne les classes més significatives.
+Long, F; Mohindra, D; Seacord, R.C; Sutherland, D.F; Svoboda, D. (2011). The CERT Oracle Secure Coding Standard for Java. USA: CERT.
+Completíssima guia de bones pràctiques de programació segura, enfocades a projectes de tota mena d’envergadura. Proporciona mètriques formals mitjançant les quals avaluar el grau de seguretat d’un codi font.
+Adreces d'interès
+http://www.oracle.com/technetwork/java/javase/tech/index-jsp-136007.html
+Pàgina oficial d’Oracle sobre l’arquitectura de seguretat de Java. Des d’aquí es pot accedir a la documentació sobre qualsevol tema vinculat.
+http://docs.oracle.com/javase/7/docs/technotes/guides/security/
+Accés a la documentació de seguretat a Java.
+http://www.oracle.com/technetwork/java/seccodeguide-139067.html
+Versió 4.0 de la guia per la codificació segura a Java.
+https://www.securecoding.cert.org/confluence/display/seccode/CERT+C+Secure+Coding+Standard
+Versió en línia de la guia CERT d’estàndard de codificació segura.
+http://docs.oracle.com/cd/E19461-01/819-2139/index.html
+Guia del System Access Manager de Java.
+http://docs.oracle.com/javase/1.5.0/docs/guide/security/jaas/tutorials/index.html
+Tutorials oficials de JAAS (Java Authentication and Authorization Service).
